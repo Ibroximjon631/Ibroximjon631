@@ -5,6 +5,6 @@
 
 ## 🔭 About Me
 
-- 🔸 Languages: Python, C
+- 🔸 Languages: C, Python
 - 🔸 Main frameworks: Django, FastAPI
 
