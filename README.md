@@ -1,4 +1,4 @@
-# Hi, I’m Ibroximjon631 👋
+# Hi, I’m Ibroximjon 👋
 
 
 ---
